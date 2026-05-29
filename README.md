@@ -45,11 +45,14 @@ SmartLib digitizes and streamlines library operations. It provides role-based da
 | `requests` | Issue and return requests |
 
 ---
+## 🎯 Key Capabilities
 
-## 📋 Non-Functional Requirements
-
-- ⚡ **Performance** — Fast book browsing and search
-- 🔒 **Security** — Role-based access control
-- 📈 **Scalability** — Easily supports more users and books
-- 🔄 **Reliability** — Real-time availability updates
-- 🛠️ **Maintainability** — Modular, clean code structure
+- Role-based dashboards for Librarian, Faculty, and Students
+- Book management (add, update, delete, browse)
+- Member management for students and faculty
+- Book issue and return request system
+- Book recommendation system for faculty
+- Reporting system for faculty and librarian
+- Profile management for all users
+- Real-time data updates
+- Public access to library catalog
