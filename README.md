@@ -6,7 +6,7 @@ A smart university library mobile app built with **React Native (Expo Snack)** &
 
 ## 📖 About
 
-SmartLib digitizes and streamlines library operations. It provides role-based dashboards for **Librarians**, **Faculty**, and **Students** with real-time book tracking, issue/return management, and public catalog browsing — no login required.
+SmartLib digitizes and streamlines library operations. It provides role-based dashboards for **Librarians**, **Faculty**, and **Students** with real-time book tracking, issue/return management, and public catalog browsing-no login required.
 
 ---
 
