@@ -62,28 +62,6 @@ SmartLib is a mobile application that digitizes and streamlines library operatio
 
 ---
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/smartlib.git
-cd smartlib
-
-# Install dependencies
-npm install
-
-# Configure Supabase — update these in your config file
-const supabaseUrl = "https://YOUR_PROJECT_ID.supabase.co";
-const supabaseAnonKey = "YOUR_PUBLIC_ANON_KEY";
-
-# Start the app
-npx expo start
-```
-
-> ⚠️ Always use `anon public` key — never use `service_role` in frontend code.
-
----
-
 ## 📋 Non-Functional Requirements
 
 - ⚡ **Performance** — Fast book browsing and search
