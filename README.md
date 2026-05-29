@@ -1,28 +1,12 @@
 # 📚 SmartLib — Library Management System
 
-> A smart university library mobile app built with React Native & Supabase
-
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green?style=flat-square)
-![Built With](https://img.shields.io/badge/Built%20With-React%20Native%20%7C%20Expo-blue?style=flat-square)
-![Database](https://img.shields.io/badge/Database-Supabase%20PostgreSQL-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
+A smart university library mobile app built with **React Native (Expo Snack)** & **Supabase**
 
 ---
 
 ## 📖 About
 
-SmartLib is a mobile application that digitizes and streamlines library operations. It provides role-based dashboards for **Librarians**, **Faculty**, and **Students** with real-time book tracking, issue/return management, and public catalog browsing — no login required.
-
----
-
-## 🛠️ Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React Native (Expo) |
-| Database | Supabase (PostgreSQL) |
-| Authentication | Supabase Auth |
-| Real-time | Supabase Realtime |
+SmartLib digitizes and streamlines library operations. It provides role-based dashboards for **Librarians**, **Faculty**, and **Students** with real-time book tracking, issue/return management, and public catalog browsing — no login required.
 
 ---
 
@@ -50,7 +34,7 @@ SmartLib is a mobile application that digitizes and streamlines library operatio
 
 ---
 
-## 🗄️ Database Tables
+## 🗄️ Database — Supabase (PostgreSQL)
 
 | Table | Purpose |
 |-------|---------|
