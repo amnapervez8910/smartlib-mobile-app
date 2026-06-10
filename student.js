@@ -25,7 +25,7 @@ const COLORS = {
   muted: "#777",
 };
 
-const StudentTabs = createBottomTabNavigator();
+const StudentTab = createBottomTabNavigator();
 
 export default function StudentTabNavigator({ route }) {
   const { email } = route.params;
