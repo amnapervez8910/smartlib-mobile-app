@@ -493,7 +493,7 @@ function ReportsScreen() {
   const max = Math.max(issued, returned, recommended, 1);
 
   const Bar = ({ label, value }) => (
-    <View style={{ marginBottom: 13 }}>
+    <View style={{ marginBottom: 14 }}>
       <Text style={{ fontWeight: "700" }}>
         {label}: {value}
       </Text>
