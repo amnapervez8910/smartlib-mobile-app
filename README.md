@@ -1,4 +1,4 @@
-       # 📚 SmartLib — Library Management System
+        # 📚 SmartLib — Library Management System
 
 A smart university library mobile app built with **React Native (Expo Snack)** & **Supabase**
 
